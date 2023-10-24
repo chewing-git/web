@@ -35,8 +35,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com" # TODO: linkedin 추가
   image:
-    x: "img/who-am-i/user-picture.png" # TODO: 프로필 이미지 주소 변경
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "https://avatars.githubusercontent.com/u/110300811?s=400&u=cdbf9a673fbc689cf097bf2e8b48dad9c786dc1e&v=4"
+    _2x: "https://avatars.githubusercontent.com/u/110300811?s=400&u=cdbf9a673fbc689cf097bf2e8b48dad9c786dc1e&v=4"
 
 # education
 education:
